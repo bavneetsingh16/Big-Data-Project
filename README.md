@@ -7,6 +7,6 @@ Steps to run program:
 - Make sure to keep the program and datasets folder in the same directory while running the program
 - The output will be generated inside the folder "csvfiles" with the same name as the original csv file.
 
-Requiremenmts:
+Requirements:
 - Pyspark
 - Pandas
